@@ -1,4 +1,4 @@
-package com.melongamesinc.letterlyapp_testwork
+package com.melongamesinc.letterlyapp_testwork.presentation.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -11,7 +11,7 @@ import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.melongamesinc.letterlyapp_testwork.ui.theme.LetterlyApp_TestWorkTheme
+import com.melongamesinc.letterlyapp_testwork.presentation.theme.LetterlyApp_TestWorkTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -1,6 +1,5 @@
-package com.melongamesinc.letterlyapp_testwork.ui.theme
+package com.melongamesinc.letterlyapp_testwork.presentation.theme
 
-import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
