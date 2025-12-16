@@ -1,4 +1,4 @@
-package com.melongamesinc.letterlyapp_testwork.ui.theme
+package com.melongamesinc.letterlyapp_testwork.presentation.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
